@@ -1,2 +1,4 @@
 devlop change1
-local changes
+ HEAD
+local change
+remote chang
